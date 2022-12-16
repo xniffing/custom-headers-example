@@ -1,0 +1,8 @@
+name = "peaceful-bot"
+type = "javascript"
+
+account_id = "9921006351e6d39ee4059dc50c134089"
+workers_dev = true
+route = "bot.peaceful-evolution.ml"
+zone_id = "168343624959c575eb6f678ba31bc0eb"
+compatibility_date = "2022-12-16"
